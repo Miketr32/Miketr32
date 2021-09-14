@@ -3,3 +3,6 @@ Mi nombre es Miguel, tengo 28 años, estoy aqui por muchas razones, las principa
 en lenguaje JavaScript, Phyton y talvez Ruby.
 Soy algo nuevo en el area asi que cualquier aporte, ayuda, colaboración o simplemente comunicación conmigo será muy bienvenida.
 Gracias por leer 🎇🎇🎇
+
+
+<iframe src="https://giphy.com/embed/fVeAI9dyD5ssIFyOyM" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/OctoNation-work-construction-fVeAI9dyD5ssIFyOyM">via GIPHY</a></p>
