@@ -17,7 +17,7 @@ Actualmente estoy buscando mi primera oportunidad laboral en el mundo IT. Mi obj
 <h2>Algunos de mis proyectos : </h2>
 
 
-<h3>PI Pokemons:</h3>
+<h2>PI Pokemons:</h2>
 
 <div>
   <img src='https://user-images.githubusercontent.com/86069194/153212279-7ca228d5-914f-4b9d-a6b2-e9df14f2299c.jpg' width='400px' height='200px' align='center'/>
@@ -26,8 +26,16 @@ Actualmente estoy buscando mi primera oportunidad laboral en el mundo IT. Mi obj
 <br>
 <div>
   <img src='https://user-images.githubusercontent.com/86069194/153223275-44a20b9a-9b64-4c09-bfc2-85baa9018cdb.jpg' width='400px' height='200px'/>
-  <img src='https://user-images.githubusercontent.com/86069194/153215664-2c9391fe-0295-40d9-9135-cb51ad02e401.jpg' width='400px' height='200px'/>
+  <img src='https://user-images.githubusercontent.com/86069194/153223674-2c88b36b-9719-4265-94dc-3cca0219419a.jpg' width='400px' height='200px'/>
 </div>
+
+App que permite la busqueda de Pokemones, obtener detalles de cada uno, filtrarlos tanto por tipo como por orden alfabetico y crear nuevos Pokemones.
+<br>
+<br>
+**Tecnologias utilizadas:**
+<div>
+<ul>Front:<li>React</li><li>Redux</li><li>Pure Css</li></ul>
+ </div>
 
 
 
