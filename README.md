@@ -33,8 +33,19 @@ App que permite la busqueda de Pokemones, obtener detalles de cada uno, filtrarl
 <br>
 <br>
 **Tecnologias utilizadas:**
+<br>
+<br>
+**Front:**
+- React
+- Redux
+- Pure Css
 
-<ul>Front:<li>React</li><li>Redux</li><li>Pure Css</li></ul>
+
+**Back:**
+- Node JS
+- Postgress
+- Express
+- Sequelize
 
 
 
