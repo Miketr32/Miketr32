@@ -1,13 +1,21 @@
-Sitio en construcción:
+<h1>Bienvenidos 👋👋👋</h1>
+<br>
+
+Soy Full-Stack developer, apasionado por la programacion, el diseño web y las tecnologias asociadas a IA (inteligencia artificial).
+
+👨‍💻  Algunas de las tecnologias que se:
+
+<ul>
+  <li>💻 JavaScript | React | Redux </li>
+  <li>🔧 Node Js | Git </li>
+  <li>🧮 Sequelize | Postgress | MySql</li>
+  <li>🎨 HTML | CSS | Bootstrap</li> 
+</ul>
+
+Actualmente estoy buscando mi primera oportunidad laboral en el mundo IT. Mi objetivo es poder demostrar mis conocimientos para de esta forma poder ir desenvolviendome mejor con todo lo que se y poder algun dia desarrollar sistemas de datos mas complejos asociados a las proximas tecnologias.
+
+<h2>Algunos de mis proyectos : </h2>
 
 
-![giphy](https://user-images.githubusercontent.com/86069194/133175873-8837c513-5272-4f13-a9dd-4bd7b8db176c.gif)
-
-### Hi there 👋
-Mi nombre es Miguel, tengo 28 años, estoy aqui por muchas razones, las principales son encontrar un nuevo empleo y poder aportar a la comunidad mis proyectos basados
-en lenguaje JavaScript, Phyton y talvez Ruby.
-Soy algo nuevo en el area asi que cualquier aporte, ayuda, colaboración o simplemente comunicación conmigo será muy bienvenida.
-Gracias por leer 🎇🎇🎇
-
-
+<h3>PI Pokemons:</h3>
 
