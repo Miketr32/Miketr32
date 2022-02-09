@@ -19,6 +19,12 @@ Actualmente estoy buscando mi primera oportunidad laboral en el mundo IT. Mi obj
 
 <h3>PI Pokemons:</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miketr32&count_private=true&show_icons=true&theme=algolia&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Miketr32&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miketr32&count_private=true&show_icons=true&theme=algolia&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miketr32&langs_count=8&theme=algolia&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)
+
+
