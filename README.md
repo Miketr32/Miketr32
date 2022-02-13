@@ -49,6 +49,9 @@ App que permite la busqueda de Pokemones, obtener detalles de cada uno, filtrarl
 
 
 
+<h2>Weather App:</h2>
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miketr32&count_private=true&show_icons=true&theme=algolia&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miketr32&langs_count=8&theme=algolia&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)
 
