@@ -53,16 +53,16 @@ App que permite la busqueda de Pokemones, obtener detalles de cada uno, filtrarl
 
 
 <div>
-  <img src='https://user-images.githubusercontent.com/86069194/153780186-35fbfba1-0152-4a11-96f7-d1d4ae79067f.png' width='400px' height='200px' align='center'/>
   <img src='https://user-images.githubusercontent.com/86069194/153780187-6a852f75-ca77-4aca-83a3-e2ecd110a531.png' width='400px' height='200px' align='center'/>
+  <img src='https://user-images.githubusercontent.com/86069194/153780195-15bb4017-daea-470b-a1e4-d8d4a2934e8c.png' width='400px' height='200px' align='center'/>
 </div>
 <br>
 <div>
   <img src='https://user-images.githubusercontent.com/86069194/153780191-6dd4d11c-bfd2-4605-9cad-0305627a89ee.png' width='400px' height='200px'/>
-  <img src='https://user-images.githubusercontent.com/86069194/153780195-15bb4017-daea-470b-a1e4-d8d4a2934e8c.png' width='400px' height='200px'/>
+  <img src='https://user-images.githubusercontent.com/86069194/153780186-35fbfba1-0152-4a11-96f7-d1d4ae79067f.png' width='400px' height='200px'/>
 </div>
 
-App que permite la busqueda de Pokemones, obtener detalles de cada uno, filtrarlos tanto por tipo como por orden alfabetico y crear nuevos Pokemones.
+App que permite obtener el clima actual de diversas ciudades del mundo con solo introducir su nombre. La app se maneja haciendo dos request, uno a una API que es la que nos trae la informacion del clima de las ciudades (openweathermap) y otra API que nos trae las banderas correspondientes a cada ciudad (restcountries).
 <br>
 <br>
 **Tecnologias utilizadas:**
@@ -70,14 +70,12 @@ App que permite la busqueda de Pokemones, obtener detalles de cada uno, filtrarl
 <br>
 **Front:**
 - React
-- Redux
 - Pure Css
+- Sass
 
 
 **Back:**
 - Node JS
-- Postgress
-- Express
 - Sequelize
 
 
