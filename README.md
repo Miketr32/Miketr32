@@ -52,6 +52,35 @@ App que permite la busqueda de Pokemones, obtener detalles de cada uno, filtrarl
 <h2>Weather App:</h2>
 
 
+<div>
+  <img src='https://user-images.githubusercontent.com/86069194/153780186-35fbfba1-0152-4a11-96f7-d1d4ae79067f.png' width='400px' height='200px' align='center'/>
+  <img src='https://user-images.githubusercontent.com/86069194/153780187-6a852f75-ca77-4aca-83a3-e2ecd110a531.png' width='400px' height='200px' align='center'/>
+</div>
+<br>
+<div>
+  <img src='https://user-images.githubusercontent.com/86069194/153780191-6dd4d11c-bfd2-4605-9cad-0305627a89ee.png' width='400px' height='200px'/>
+  <img src='https://user-images.githubusercontent.com/86069194/153780195-15bb4017-daea-470b-a1e4-d8d4a2934e8c.png' width='400px' height='200px'/>
+</div>
+
+App que permite la busqueda de Pokemones, obtener detalles de cada uno, filtrarlos tanto por tipo como por orden alfabetico y crear nuevos Pokemones.
+<br>
+<br>
+**Tecnologias utilizadas:**
+<br>
+<br>
+**Front:**
+- React
+- Redux
+- Pure Css
+
+
+**Back:**
+- Node JS
+- Postgress
+- Express
+- Sequelize
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miketr32&count_private=true&show_icons=true&theme=algolia&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miketr32&langs_count=8&theme=algolia&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)
 
