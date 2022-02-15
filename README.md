@@ -14,6 +14,12 @@ Soy Full-Stack developer, apasionado por la programacion, el diseño web y las t
 
 Actualmente estoy buscando mi primera oportunidad laboral en el mundo IT. Mi objetivo es poder demostrar mis conocimientos para de esta forma poder ir desenvolviendome mejor con todo lo que se y poder algun dia desarrollar sistemas de datos mas complejos asociados a las proximas tecnologias.
 
+<strong>Contacto:<strong>
+
+💼 Portfolio: http://miportafoliodev.herokuapp.com/
+
+✉ Email: miguelcoronel884@gmail.com
+
 <h1>Algunos de mis proyectos : </h1>
 
 
