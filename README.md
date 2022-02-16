@@ -83,6 +83,7 @@ App que permite obtener el clima actual de diversas ciudades del mundo con solo 
 **Back:**
 - Node JS
 - Sequelize
+  
 
 
 
