@@ -6,10 +6,10 @@ Soy Full-Stack developer, apasionado por la programacion, el diseño web y las t
 👨‍💻  Algunas de las tecnologias que se:
 
 <ul>
-  <li>💻 JavaScript | React | Redux </li>
+  <li>💻 JavaScript | TypeScript | React | Redux </li>
   <li>🔧 Node Js | Git </li>
   <li>🧮 Sequelize | Postgress | MySql</li>
-  <li>🎨 HTML | CSS | Bootstrap</li> 
+  <li>🎨 HTML | CSS | Sass | Bootstrap</li> 
 </ul>
 
 Actualmente estoy buscando mi primera oportunidad laboral en el mundo IT. Mi objetivo es poder demostrar mis conocimientos para de esta forma poder ir desenvolviendome mejor con todo lo que se y poder algun dia desarrollar sistemas de datos mas complejos asociados a las proximas tecnologias.
