@@ -84,6 +84,40 @@ App que permite obtener el clima actual de diversas ciudades del mundo con solo 
 - Node JS
 - Sequelize
   
+  
+  
+  <h2>Henry social:</h2>
+
+
+<div>
+  <img src='https://user-images.githubusercontent.com/86069194/159708078-7a081def-9322-40a3-bde2-a25e6ff8c2b5.png' width='400px' height='200px' align='center'/>
+  <img src='https://user-images.githubusercontent.com/86069194/159708098-577a54e0-4549-476b-beaf-4908912d5a49.png' width='400px' height='200px' align='center'/>
+</div>
+<br>
+<div>
+  <img src='https://user-images.githubusercontent.com/86069194/159708104-ce971cf5-bc01-4ad8-9c34-d2273a33c19f.png' width='400px' height='200px'/>
+  <img src='https://user-images.githubusercontent.com/86069194/159708115-03120351-96b9-47a8-9c5e-b36520f3a7da.png' width='400px' height='200px'/>
+</div>
+
+El projecto se basa en una red social, desarrollada como proyecto final grupal para el bootcamp de Henry. El mismo comprende una red social para estudiantes de Henry,
+el cual cuenta con diferentes tipos de interacciones tales como publicacion de posteos, filtros de publicaciones, chat grupal y privado, reporte de usuarios/publicaciones, panel de administradores, entre otras funcionalidades propias de una red social.
+<br>
+<br>
+**Tecnologias utilizadas:**
+<br>
+<br>
+**Front:**
+- React
+- Sass modules
+- React Icons
+
+**Back:**
+- Node JS
+- Firebase
+- TypeScript
+- Express
+- MongoDB
+- Socket.io
 
 
 
