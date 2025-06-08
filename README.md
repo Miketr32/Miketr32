@@ -1,29 +1,28 @@
 <h1>Bienvenidos 👋👋👋</h1>
 <br>
 
-Soy Full-Stack developer, apasionado por la programacion, el diseño web y las tecnologias asociadas a IA (inteligencia artificial).
+Soy Full-Stack developer, apasionado por la programacion, el diseño web y las tecnologias asociadas a IA (inteligencia artificial) y hoy en dia orientado un poco mas a la programacion en Salesforce.
 
-👨‍💻  Algunas de las tecnologias que se:
+Algunas de las tecnologias que uso normalmente:
 
 <ul>
-  <li>💻 JavaScript | TypeScript | React | Redux </li>
-  <li>🔧 Node Js | Git </li>
-  <li>🧮 Sequelize | Postgress | MySql</li>
+  <li>💻 JavaScript | Apex | LWC | TypeScript | React </li>
+  <li>🔧 Node Js | Git | Copado</li>
+  <li>🧮 Sequelize | Postgress | MySql | SOQL</li>
   <li>🎨 HTML | CSS | Sass | Bootstrap</li> 
 </ul>
 
-Actualmente estoy buscando mi primera oportunidad laboral en el mundo IT. Mi objetivo es poder demostrar mis conocimientos para de esta forma poder ir desenvolviendome mejor con todo lo que se y poder algun dia desarrollar sistemas de datos mas complejos asociados a las proximas tecnologias.
 
 <strong>Contacto:<strong>
 
-💼 Portfolio: http://miportafoliodev.herokuapp.com/
+💼 Portfolio: http://miportafoliodev.herokuapp.com/ (Actualmente en reparacion)
 
 ✉ Email: miguelcoronel884@gmail.com
 
 <h1>Algunos de mis proyectos : </h1>
 
 
-<h2>PI Pokemons:</h2>
+<h2 src='https://github.com/Miketr32/Pokemons-PI'>PI Pokemons:</h2>
 
 <div>
   <img src='https://user-images.githubusercontent.com/86069194/153212279-7ca228d5-914f-4b9d-a6b2-e9df14f2299c.jpg' width='400px' height='200px' align='center'/>
