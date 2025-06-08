@@ -54,7 +54,7 @@ App que permite la busqueda de Pokemones, obtener detalles de cada uno, filtrarl
 
 
 
-<h2><a href='weatherapp-miguel.netlify.app/'>Weather App:</a></h2>
+<h2><a href='https://weatherapp-miguel.netlify.app/'>Weather App:</a></h2>
 
 
 <div>
