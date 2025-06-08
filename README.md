@@ -22,7 +22,7 @@ Algunas de las tecnologias que uso normalmente:
 <h1>Algunos de mis proyectos : </h1>
 
 
-<h2 src='https://github.com/Miketr32/Pokemons-PI'>PI Pokemons:</h2>
+<h2><a href='https://github.com/Miketr32/Pokemons-PI'>PI Pokemons:</a></h2> (Actualmente en reparacion hasta encontrar nuevo host para la API)
 
 <div>
   <img src='https://user-images.githubusercontent.com/86069194/153212279-7ca228d5-914f-4b9d-a6b2-e9df14f2299c.jpg' width='400px' height='200px' align='center'/>
@@ -54,7 +54,7 @@ App que permite la busqueda de Pokemones, obtener detalles de cada uno, filtrarl
 
 
 
-<h2>Weather App:</h2>
+<h2><a href='weatherapp-miguel.netlify.app/'>Weather App:</a></h2>
 
 
 <div>
@@ -85,7 +85,7 @@ App que permite obtener el clima actual de diversas ciudades del mundo con solo 
   
   
   
-  <h2>Henry social:</h2>
+<h2>Henry social:</h2>
 
 
 <div>
